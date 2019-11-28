@@ -1,0 +1,2 @@
+# staticz
+very good
